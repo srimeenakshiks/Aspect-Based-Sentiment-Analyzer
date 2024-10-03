@@ -1,6 +1,18 @@
 ---
 library_name: transformers
-tags: []
+tags:
+- sentiment analyzer
+- aspect based sentiment analyzer
+- text classification
+- bert model
+- imdb dataset
+license: mit
+datasets:
+- stanfordnlp/imdb
+language:
+- en
+base_model:
+- google-bert/bert-base-uncased
 ---
 
 # Model Card for Model ID

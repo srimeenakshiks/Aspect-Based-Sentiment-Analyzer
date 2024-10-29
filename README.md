@@ -196,7 +196,7 @@ The model is based on the BERT architecture, specifically designed to understand
 
 Srimeenakshi K S. (2024). _Aspect-Based Sentiment Analyzer using BERT_. Hugging Face.
 
-## Glossary [optional]
+## Glossary
 
 <!-- If relevant, include terms and calculations in this section that can help readers understand the model or model card. -->
 

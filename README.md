@@ -170,7 +170,7 @@ The model is based on the BERT architecture, specifically designed to understand
 
 #### Hardware
 
-- **GPU:** NVIDIA GeForce RTX 2080
+- **GPU:** NVIDIA GeForce RTX 4050
 - **RAM:** 16GB
 
 #### Software

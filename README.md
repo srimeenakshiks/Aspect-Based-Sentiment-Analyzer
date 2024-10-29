@@ -27,11 +27,6 @@ This model is a fine-tuned BERT model designed for aspect-based sentiment analys
 ### Model Description
 
 <!-- Provide a longer summary of what this model is. -->
-Here's a suggested model description for your Aspect-Based Sentiment Analyzer using BERT:
-
----
-
-### Model Description
 
 The **Aspect-Based Sentiment Analyzer using BERT** is a state-of-the-art natural language processing model designed to identify and analyze sentiments expressed towards specific aspects within a given text. Leveraging the power of the BERT architecture, this model excels in understanding contextual nuances, enabling it to accurately classify sentiments as positive, negative, or neutral for various product features or attributes mentioned in customer reviews or feedback.
 

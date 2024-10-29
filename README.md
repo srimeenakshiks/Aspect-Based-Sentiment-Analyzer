@@ -33,20 +33,11 @@ The **Aspect-Based Sentiment Analyzer using BERT** is a state-of-the-art natural
 Trained on the [Stanford IMDB dataset](https://huggingface.co/datasets/stanfordnlp/imdb), the model has been fine-tuned to detect sentiment related to different aspects, making it valuable for businesses aiming to enhance customer satisfaction and gather insights from user-generated content. Its robust performance can aid in sentiment analysis tasks across various domains, including product reviews, service evaluations, and social media interactions.
 
 - **Developed by:** Srimeenakshi K S
-- **Funded by [optional]:** [Not Applicable]
-- **Shared by [optional]:** [Not Applicable]
 - **Model type:** Aspect-Based Sentiment Analysis
 - **Language(s) (NLP):** English
 - **License:** MIT License
-- **Finetuned from model [optional]:** BERT-base-uncased
+- **Finetuned from model:** BERT-base-uncased
 
-### Model Sources [optional]
-
-<!-- Provide the basic links for the model. -->
-
-- **Repository:** [Hugging Face](https://huggingface.co/srimeenakshiks/aspect-based-sentiment-analyzer-using-bert)
-- **Paper [optional]:** [Not Applicable]
-- **Demo [optional]:** [Not Applicable]
 
 ## Uses
 
@@ -58,7 +49,7 @@ Trained on the [Stanford IMDB dataset](https://huggingface.co/datasets/stanfordn
 The model can be used directly to classify sentiments in user-generated text based on specified aspects without the need for additional fine-tuning. It is suitable for analyzing reviews, social media posts, and other forms of textual feedback.
 
 
-### Downstream Use [optional]
+### Downstream Use
 
 <!-- This section is for the model use when fine-tuned for a task, or when plugged into a larger ecosystem/app -->
 This model can be integrated into applications for customer feedback analysis, chatbots for customer service, or sentiment analysis tools for businesses looking to improve their products and services based on customer input.
@@ -187,8 +178,6 @@ The model is based on the BERT architecture, specifically designed to understand
 - **Framework:** PyTorch
 - **Library Version**: Hugging Face Transformers version 4.44.2
 
-[More Information Needed]
-
 ## Citation
 
 <!-- If there is a paper or blog post introducing the model, the APA and Bibtex information for that should go in this section. -->
@@ -216,7 +205,7 @@ Srimeenakshi K S. (2024). _Aspect-Based Sentiment Analyzer using BERT_. Hugging 
 
 ## Model Card Authors
 
-- **Author:** Srimeenakshi]
+- **Author:** Srimeenakshi K S
 
 ## Model Card Contact
 
